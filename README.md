@@ -13,6 +13,7 @@ It supports/performs the following commands on a FAT32 image:
 8. read <filename> <position> <number of bytes>
  
  Instruction for compilation: g++ mfs.c -o mfs
-                              mfs
+                             
+                             mfs
  
  
